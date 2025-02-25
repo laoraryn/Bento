@@ -135,24 +135,28 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'base',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Gmail',
+					link: 'https://mail.google.com/mail/u/0/#inbox',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Photos',
+					link: 'https://photos.google.com/u/1/?pageId=none',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Drive',
+					link: 'https://drive.google.com/drive/u/0/my-drive',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Calendar',
+					link: 'https://calendar.google.com/calendar/u/0/r',
+				},
+				{
+					name: 'Youtube',
+					link: 'https://www.youtube.com',
 				},
 			],
 		},
